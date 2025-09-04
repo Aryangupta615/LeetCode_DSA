@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
