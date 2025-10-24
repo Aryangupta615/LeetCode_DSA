@@ -5,7 +5,7 @@ class Solution {
         int i=0;
         int j=0;
         while(i<g.length && j<s.length){
-            if(g[i]<=s[j]){
+            if(g[i] <= s[j]){
                 i++;
             }
             j++;
