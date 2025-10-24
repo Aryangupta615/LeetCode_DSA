@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0890-lemonade-change) |
 ## String
 |  |
 | ------- |
