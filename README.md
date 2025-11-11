@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
