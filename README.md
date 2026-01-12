@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2706-buy-two-chocolates](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0890-lemonade-change) |
+| [2706-buy-two-chocolates](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [2706-buy-two-chocolates](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
