@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0890-lemonade-change) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
