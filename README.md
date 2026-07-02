@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0647-palindromic-substrings](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
