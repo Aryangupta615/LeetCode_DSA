@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0876-middle-of-the-linked-list](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
