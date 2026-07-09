@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
