@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0018-4sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Aryangupta615/LeetCode_DSA/tree/master/0202-happy-number) |
